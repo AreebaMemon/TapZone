@@ -1,5 +1,3 @@
----
-
 # 🎵 TapZone
 
 **TapZone** is a fun and interactive browser-based soundboard where each letter of the word **TAPZONE** plays a unique drum sound. Created for both entertainment and practice, this project helps beginners understand **DOM manipulation**, **event handling**, and **audio integration** in JavaScript.
