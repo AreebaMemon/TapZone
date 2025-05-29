@@ -17,7 +17,7 @@
 
 ## 📸 Screenshot
 
-![TapZone Screenshot](SS.png)
+![TapZone Screenshot](Image.png)
 
 ---
 
@@ -32,7 +32,6 @@
 ## 📂 Project Structure
 
 ```text
-TapZone/
 ├── index.html         # Main HTML file
 ├── styles.css         # Styling with responsive layout
 ├── script.js          # JavaScript logic for button sounds
