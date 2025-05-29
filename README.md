@@ -43,7 +43,7 @@
 │   ├── crash.mp3
 │   ├── kick-bass.mp3
 │   └── snare.mp3
-└── SS.png             # Screenshot preview (optional)
+└── Image.png             # Screenshot preview (optional)
 ```
 
 ---
